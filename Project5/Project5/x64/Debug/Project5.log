@@ -1,0 +1,33 @@
+﻿  源.c
+D:\C_Learning\Project5\Project5\源.c(11,10): warning C4477: “scanf_s”: 格式字符串“%ls”需要类型“unsigned short *”的参数，但可变参数 1 拥有了类型“char *”
+D:\C_Learning\Project5\Project5\源.c(11,10): message : 此参数由转换说明符使用
+D:\C_Learning\Project5\Project5\源.c(11,10): message : 请考虑在格式字符串中使用“%hs”
+D:\C_Learning\Project5\Project5\源.c(11,10): message : 请考虑在格式字符串中使用“%s”
+D:\C_Learning\Project5\Project5\源.c(11,10): message : 请考虑在格式字符串中使用“%Ts”
+D:\C_Learning\Project5\Project5\源.c(11,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\C_Learning\Project5\Project5\源.c(11,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\C_Learning\Project5\Project5\源.c(11,10): message : 缺失的可变参数 2 为格式字符串“%ls”所需
+D:\C_Learning\Project5\Project5\源.c(11,10): message : 此参数用作缓冲区大小
+D:\C_Learning\Project5\Project5\源.c(17,10): warning C4477: “scanf_s”: 格式字符串“%ls”需要类型“unsigned short *”的参数，但可变参数 1 拥有了类型“char *”
+D:\C_Learning\Project5\Project5\源.c(17,10): message : 此参数由转换说明符使用
+D:\C_Learning\Project5\Project5\源.c(17,10): message : 请考虑在格式字符串中使用“%hs”
+D:\C_Learning\Project5\Project5\源.c(17,10): message : 请考虑在格式字符串中使用“%s”
+D:\C_Learning\Project5\Project5\源.c(17,10): message : 请考虑在格式字符串中使用“%Ts”
+D:\C_Learning\Project5\Project5\源.c(17,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\C_Learning\Project5\Project5\源.c(17,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\C_Learning\Project5\Project5\源.c(17,10): message : 缺失的可变参数 2 为格式字符串“%ls”所需
+D:\C_Learning\Project5\Project5\源.c(17,10): message : 此参数用作缓冲区大小
+D:\C_Learning\Project5\Project5\源.c(19,10): warning C4477: “scanf_s”: 格式字符串“%ls”需要类型“unsigned short *”的参数，但可变参数 1 拥有了类型“char *”
+D:\C_Learning\Project5\Project5\源.c(19,10): message : 此参数由转换说明符使用
+D:\C_Learning\Project5\Project5\源.c(19,10): message : 请考虑在格式字符串中使用“%hs”
+D:\C_Learning\Project5\Project5\源.c(19,10): message : 请考虑在格式字符串中使用“%s”
+D:\C_Learning\Project5\Project5\源.c(19,10): message : 请考虑在格式字符串中使用“%Ts”
+D:\C_Learning\Project5\Project5\源.c(19,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\C_Learning\Project5\Project5\源.c(19,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\C_Learning\Project5\Project5\源.c(19,10): message : 缺失的可变参数 2 为格式字符串“%ls”所需
+D:\C_Learning\Project5\Project5\源.c(19,10): message : 此参数用作缓冲区大小
+D:\C_Learning\Project5\Project5\源.c(21,36): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C_Learning\Project5\Project5\源.c(23,44): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C_Learning\Project5\Project5\源.c(25,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C_Learning\Project5\Project5\源.c(27,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Project5.vcxproj -> D:\C_Learning\Project5\x64\Debug\Project5.exe
